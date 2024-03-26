@@ -1,0 +1,7 @@
+Important Notes
+
+Make sure that the PDF files you want to merge are in the same directory as the script or specify the full path to each file.
+
+This script assumes that PyPDF2 is installed and available. If not, you can install it using pip: pip install PyPDF2.
+
+The script overwrites CombinedFile.pdf if it already exists. If you want to prevent this, you can add a check to generate a unique filename or prompt the user for confirmation before overwriting.
