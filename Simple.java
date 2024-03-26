@@ -9,7 +9,7 @@ public class Simple {
     b.setBounds(130,100,100,100);
     f.add(b);
 
-    f.setSize(400,500);
+    f.setSize(300,400);
     f.setLayout(null);
     f.setVisible(true);
 
